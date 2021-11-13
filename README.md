@@ -7,4 +7,4 @@ You can check the portfolio [here](https://pratikbagmare-portfolio.netlify.app/i
 
 - HTML
 - CSS
-- JavaScript
+- Vanilla JavaScript
